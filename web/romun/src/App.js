@@ -1,10 +1,10 @@
 import logo from './logo.svg';
 import './App.css';
 
-var React = require('react')
 
-class App extends React.Component() {
+var React = require('react');   //Activa REACt
 
+class App extends React.Component {
   constructor(props) {
 
     super(props);
