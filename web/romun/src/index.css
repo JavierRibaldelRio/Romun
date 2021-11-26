@@ -27,10 +27,24 @@ body {
 .App {
 
   text-align: center;
-
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .boton {
 
   font-size: 7vmin;
+
+  margin: 30min;
+}
+
+.Panel_de_Control {
+  background-color: var(--tea-green);
+
+  padding: 5vmin;
+  flex-basis: auto;
+
+
 }
