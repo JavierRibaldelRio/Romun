@@ -41,8 +41,11 @@ function pasarMesARomano(mes) {
         case 12:
             mesARomano = "XII"
             break;
+        default:
+            break;
 
     }
+    return mesARomano;
 }
 
 export default pasarMesARomano;
