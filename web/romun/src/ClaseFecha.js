@@ -41,9 +41,9 @@ class Fecha {
 
     //Funcion que sirbe para definir la fecha
 
-    fechaDefinida(dia, mes, anyo) {
+    fechaDefinida(textoFecha) {
 
-        this.setFecha(new Date(anyo, mes, dia));    //Change the object properties wiwth the data that came from de user
+        this.setFecha(new Date(textoFecha));    //Change the object properties wiwth the data that came from de user
     }
 
 
