@@ -8,6 +8,8 @@
   --tea-green: #e8ffb7ff;
   --languid-lavender: #e8d7ffff;
   --tart-orange: #fe4a49ff;
+
+  --bright-lilac: #c599ffff;
   --padding-basico: 5vmin;
 }
 
@@ -43,11 +45,21 @@ body {
   font-size: 5vmin;
   display: block;
   margin: 30min;
+  padding: 1vmin;
+  background-color: var(--languid-lavender);
+  border-color: purple;
 }
 
 h1 {
   font-size: 7vmin;
 }
+
+.boton:hover {
+
+  cursor: hand;
+  background-color: var(--bright-lilac)
+}
+
 
 #calendario {
 
