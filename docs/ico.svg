@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   sodipodi:docname="ico.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.42226431"
+     inkscape:cx="114.85697"
+     inkscape:cy="395.48689"
+     inkscape:window-width="1366"
+     inkscape:window-height="700"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <rect
+       x="-713.50549"
+       y="-737.05537"
+       width="452.1071"
+       height="488.81729"
+       id="rect19130" />
+    <rect
+       x="-1230.2484"
+       y="-195.10873"
+       width="638.29018"
+       height="332.51506"
+       id="rect6472" />
+    <rect
+       x="-1599.8851"
+       y="-309.27449"
+       width="568.92978"
+       height="350.88063"
+       id="rect2572" />
+    <rect
+       x="-1230.2484"
+       y="-195.10873"
+       width="638.29018"
+       height="332.51506"
+       id="rect9266" />
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text2570"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect2572);fill:#000000;fill-opacity:1;stroke:none" />
+    <g
+       id="g23754"
+       inkscape:export-filename="/home/javi/Desktop/Programacion/Nexus/Romun/docs/icono.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <circle
+         style="fill:#aaeeff;stroke:none;stroke-width:2.1367;stroke-linecap:round;stroke-linejoin:bevel"
+         id="path846"
+         cx="113.82909"
+         cy="135.25197"
+         r="74.375313" />
+      <text
+         xml:space="preserve"
+         transform="matrix(2.5412364,0,0,2.5412364,1892.4033,1955.0593)"
+         id="text19128"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19130);fill:#ff6600;fill-opacity:1;stroke:none"><tspan
+           x="-713.50586"
+           y="-700.56147"
+           id="tspan843">X</tspan></text>
+    </g>
+  </g>
+</svg>
