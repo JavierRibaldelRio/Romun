@@ -25,7 +25,9 @@ class App extends React.Component {
         <PanelControl mandarTexto={this.actualizarTexto.bind(this)} />
 
         <ZonaFecha texto={this.state.textoAMostrar}></ZonaFecha>
-      </div>
+
+        <a href='https://github.com/JavierRibaldelRio' target='_blank'><img className="GitHub_Logo" src="./GitHub-Mark/PNG/GitHub-Mark-120px-plus.png"></img></a>
+      </div >
     );
   }
 }

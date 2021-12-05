@@ -88,3 +88,17 @@ h1 {
   justify-content: space-around;
   height: 55vh;
 }
+
+.GitHub_Logo {
+
+  max-height: 7vmin;
+
+
+  position: absolute;
+
+  float: inline-end;
+
+  left: 80vw;
+  top: 90vh;
+
+}
