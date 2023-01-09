@@ -26,7 +26,7 @@ class App extends React.Component {
 
         <ZonaFecha texto={this.state.textoAMostrar}></ZonaFecha>
 
-        <a href='https://github.com/JavierRibaldelRio' target='_blank'><img className="GitHub_Logo" src="./GitHub-Mark/PNG/GitHub-Mark-120px-plus.png"></img></a>
+{/*  <a href='https://github.com/JavierRibaldelRio' target='_blank'><img className="GitHub_Logo" src="./GitHub-Mark/PNG/GitHub-Mark-120px-plus.png"></img></a>*/}
       </div >
     );
   }
